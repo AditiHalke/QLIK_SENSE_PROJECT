@@ -1,0 +1,2 @@
+# QLIK_SENSE_PROJECT
+This repository includes the project on DATA INSIGHTS FROM ADHAAR A COMPREHENSIVE ANALYSIS.
